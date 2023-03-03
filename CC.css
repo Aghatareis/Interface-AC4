@@ -13,7 +13,7 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-   background: linear-gradient(45deg,#CD0404,#F94A29,#F0A04B,#daa520);
+   background: linear-gradient(45deg,#CD0404,#F94A29,#831d1c,#daa520);
    background-size: 200% 300%;
    animation: animadasso 15s ease-in-out infinite;
 
