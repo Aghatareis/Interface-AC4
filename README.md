@@ -26,3 +26,6 @@
 ##  Acessibilidade
 
 - A acessibilidade tecnologica tem como objetivo oferecer possibilidades de transpor as barreiras que existem na sociedade, com fim de auxiliar uma pessoa com deficiência a longo prazo, garantindo que todas as pessoas possam participar dos diversos âmbitos sociais, como a informação e comunicação.
+
+## Acessibilidade em Libras
+- Aplicamos a acessibilidade de libras, para pessoas surdas ou de baixa audição, no qual a libras é sua língua principal. A acessibilidade aparece no lado direito da tela, uma vez que aberta, quando passar o mouse por cima da palavra, a representação de um personagem de figura masculina na tela inicia a língua de sinais.
